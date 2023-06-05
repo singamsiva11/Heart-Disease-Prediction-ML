@@ -2,4 +2,4 @@
 The main objective of doing this project is to present a heart disease prediction model for the 
 prediction of occurrence of heart disease.
 # Prerequisites
-Python, Jupiter notebook, XG-boost, Streamlit, Pickle
+Python, Jupiter notebook, XG-boost, streamlit, pickle
